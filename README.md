@@ -14,4 +14,6 @@ update 1.1:
 Added 2 new styles
 
 update 1.2:
-Added 2 new styles Script updated
+Added 2 new styles
+
+Script updated
