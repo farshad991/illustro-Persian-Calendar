@@ -3,9 +3,6 @@
 
 Persian Calendar (Shamsi - Jalali) for Rainmeter
 
-based on Shamsi-Calendar-Rainmeter-V2 by Adel Ghaenian
-
-https://github.com/adelghaenian/Shamsi-Calendar-Rainmeter-V2
 
 font used: VazirMatn by Saber RastiKerdar
 
@@ -15,3 +12,6 @@ Includes 3 different styles and 9 color themes
 
 update 1.1:
 Added 2 new styles
+
+update 1.2:
+Added 2 new styles Script updated
